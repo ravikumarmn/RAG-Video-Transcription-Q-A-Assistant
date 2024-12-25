@@ -1,5 +1,8 @@
 # RAG Video Transcription
 
+<img src="assets/image.png" alt="Application Page" title="Website Page">
+
+
 A system for processing video transcripts using Retrieval Augmented Generation (RAG) with Elasticsearch as the vector store.
 
 ## Features
@@ -152,8 +155,5 @@ streamlit run src/app.py
 
 - `--metadata-only`: Updates only the metadata for videos that are already in the system, without reprocessing video content or transcripts
 - `--force`: Forces reprocessing of videos even if they already exist in the system. Useful when you want to update existing video content or fix processing issues
-
-
-
 
 The application will be available at `http://localhost:8501`
