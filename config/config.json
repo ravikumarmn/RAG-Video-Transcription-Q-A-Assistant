@@ -1,0 +1,16 @@
+{
+  "models": {
+    "embedding": "text-embedding-ada-002",
+    "chat_model": "openai"
+  },
+  "paths": {
+    "videos": "videos",
+    "transcripts": "transcripts"
+  },
+  "retrieval": {
+    "max_sources": 5,
+    "similarity_threshold": 0.5,
+    "max_tokens": 4000
+  },
+  "display_sources": { "display_k": 5 }
+}

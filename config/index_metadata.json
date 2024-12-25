@@ -1,0 +1,25 @@
+{
+  "transcript_metadata": [
+    {
+      "video_path": "python_tutor.mp4",
+      "transcript_path": "python_tutor_20241130_113230.vtt",
+      "title": "Python Tutorials",
+      "description": "Educational video about Python programming fundamentals and concepts",
+      "meeting_date": "2024-11-30"  
+    },
+    {
+      "video_path": "GreatRedSpot.mp4",
+      "transcript_path": "GreatRedSpot_20241130_114034.vtt",
+      "title": "Jupiter's Great Red Spot",
+      "description": "Video about Jupiter's Great Red Spot and its atmospheric phenomena",
+      "meeting_date": "2024-11-30"
+    },
+    {
+      "video_path": "macbook_airpod_no_Desktop_no_cooler.mp4",
+      "transcript_path": "macbook_airpod_no_Desktop_no_cooler_20241130_114905.vtt",
+      "title": "Macbook and Airpods Setup",
+      "description": "Guide about Macbook setup without a desktop stand or cooling pad, featuring Airpods integration",
+      "meeting_date": "2024-11-30"
+    }
+  ]
+}
